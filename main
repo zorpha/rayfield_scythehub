@@ -674,7 +674,7 @@ local RayfieldLibrary = {
 		},
         Bloody = {
 			TextColor = Color3.fromRGB(50, 55, 60),
-			Background = Color3.fromRGB(165, 80, 80),
+			Background = Color3.fromRGB(255, 68, 78),
 			Topbar = Color3.fromRGB(140, 68, 68),
 			Shadow = Color3.fromRGB(97, 47, 47),
 
